@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { supabaseClient } from '@/lib/supabase';
 import { useRouter } from 'next/navigation';
-import { Mail, Lock, LogIn, Loader2, UserPlus } from 'lucide-react';
+import { Mail, Lock, LogIn, Loader2, UserPlus, CheckCircle2, XCircle } from 'lucide-react';
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');
