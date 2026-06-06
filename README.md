@@ -1,1 +1,1 @@
-# BindAI your Powerful AI Platform, Try Now!!!
+# Brain Dump App
